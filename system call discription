@@ -1,5 +1,0 @@
-This project demonstrates the `chroot()` system call in C on Ubuntu.
-It illustrates how to change the root directory for process isolation.
-The code creates a minimal directory structure and copies necessary binaries.
-It highlights the interaction between user-space and the Linux kernel.
-Ideal for learning about sandboxing and basic containerization concepts.
